@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/huynguyen/.nuget/packages/": {}
+    "/Users/nguyenkhanhngoc/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
+      "projectUniqueName": "/Users/nguyenkhanhngoc/Documents/GitHub/bai-tap-operator-va-control-flow-ngocnguyen31241024603/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
       "projectName": "csharp-assignment-hello-world",
-      "projectPath": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
-      "packagesPath": "/Users/huynguyen/.nuget/packages/",
-      "outputPath": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/",
+      "projectPath": "/Users/nguyenkhanhngoc/Documents/GitHub/bai-tap-operator-va-control-flow-ngocnguyen31241024603/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
+      "packagesPath": "/Users/nguyenkhanhngoc/.nuget/packages/",
+      "outputPath": "/Users/nguyenkhanhngoc/Documents/GitHub/bai-tap-operator-va-control-flow-ngocnguyen31241024603/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/huynguyen/.nuget/NuGet/NuGet.Config"
+        "/Users/nguyenkhanhngoc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
